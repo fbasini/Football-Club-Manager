@@ -1,6 +1,6 @@
 # FootballClubManager
 
-FootballClubManager es un TP grupal donde desarrollamos una aplicación web para la gestión de socios de un club de fútbol.
+FootballClubManager es un TP donde se desarrollo una aplicación web para la gestión de socios de un club de fútbol.
 
 La aplicación fue creada utilizando **ASP.NET** con **WebForms** para construir la interfaz de usuario y **CSS** para estilizar y mejorar la experiencia visual.
 
