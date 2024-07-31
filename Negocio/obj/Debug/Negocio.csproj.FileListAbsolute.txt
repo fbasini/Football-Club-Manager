@@ -1,0 +1,165 @@
+C:\Users\felib\Desktop\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\ProyectoFinal\Negocio\bin\Debug\Negocio.dll
+C:\Users\felib\Desktop\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\ProyectoFinal\Negocio\bin\Debug\Negocio.pdb
+C:\Users\felib\Desktop\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\ProyectoFinal\Negocio\bin\Debug\Dao.dll
+C:\Users\felib\Desktop\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\ProyectoFinal\Negocio\bin\Debug\Entidades.dll
+C:\Users\felib\Desktop\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\ProyectoFinal\Negocio\bin\Debug\Dao.pdb
+C:\Users\felib\Desktop\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\ProyectoFinal\Negocio\bin\Debug\Entidades.pdb
+C:\Users\felib\Desktop\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\felib\Desktop\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\felib\Desktop\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\felib\Desktop\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\ProyectoFinal\Negocio\obj\Debug\Negocio.dll
+C:\Users\felib\Desktop\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\ProyectoFinal\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Usuario\Downloads\ProyectoFinal\Negocio\bin\Debug\Negocio.dll
+C:\Users\Usuario\Downloads\ProyectoFinal\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Usuario\Downloads\ProyectoFinal\Negocio\bin\Debug\Dao.dll
+C:\Users\Usuario\Downloads\ProyectoFinal\Negocio\bin\Debug\Entidades.dll
+C:\Users\Usuario\Downloads\ProyectoFinal\Negocio\bin\Debug\Dao.pdb
+C:\Users\Usuario\Downloads\ProyectoFinal\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Downloads\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Usuario\Downloads\ProyectoFinal\Negocio\obj\Debug\Negocio.dll
+C:\Users\Usuario\Downloads\ProyectoFinal\Negocio\obj\Debug\Negocio.pdb
+D:\Desktop\ProyectoFinal\Negocio\bin\Debug\Negocio.dll
+D:\Desktop\ProyectoFinal\Negocio\bin\Debug\Negocio.pdb
+D:\Desktop\ProyectoFinal\Negocio\bin\Debug\Dao.dll
+D:\Desktop\ProyectoFinal\Negocio\bin\Debug\Entidades.dll
+D:\Desktop\ProyectoFinal\Negocio\bin\Debug\Dao.pdb
+D:\Desktop\ProyectoFinal\Negocio\bin\Debug\Entidades.pdb
+D:\Desktop\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+D:\Desktop\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\Desktop\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\Desktop\ProyectoFinal\Negocio\obj\Debug\Negocio.dll
+D:\Desktop\ProyectoFinal\Negocio\obj\Debug\Negocio.pdb
+C:\Users\felib\Desktop\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\ProyectoFinal.new\Negocio\bin\Debug\Negocio.dll
+C:\Users\felib\Desktop\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\ProyectoFinal.new\Negocio\bin\Debug\Negocio.pdb
+C:\Users\felib\Desktop\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\ProyectoFinal.new\Negocio\bin\Debug\Dao.dll
+C:\Users\felib\Desktop\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\ProyectoFinal.new\Negocio\bin\Debug\Entidades.dll
+C:\Users\felib\Desktop\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\ProyectoFinal.new\Negocio\bin\Debug\Dao.pdb
+C:\Users\felib\Desktop\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\ProyectoFinal.new\Negocio\bin\Debug\Entidades.pdb
+C:\Users\felib\Desktop\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\ProyectoFinal.new\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\felib\Desktop\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\ProyectoFinal.new\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\felib\Desktop\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\ProyectoFinal.new\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\felib\Desktop\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\ProyectoFinal.new\Negocio\obj\Debug\Negocio.dll
+C:\Users\felib\Desktop\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\ProyectoFinal.new\Negocio\obj\Debug\Negocio.pdb
+C:\Users\u622030\Downloads\ProyectoFinal_Version17\ProyectoFinal\Negocio\bin\Debug\Negocio.dll
+C:\Users\u622030\Downloads\ProyectoFinal_Version17\ProyectoFinal\Negocio\bin\Debug\Negocio.pdb
+C:\Users\u622030\Downloads\ProyectoFinal_Version17\ProyectoFinal\Negocio\bin\Debug\Dao.dll
+C:\Users\u622030\Downloads\ProyectoFinal_Version17\ProyectoFinal\Negocio\bin\Debug\Entidades.dll
+C:\Users\u622030\Downloads\ProyectoFinal_Version17\ProyectoFinal\Negocio\bin\Debug\Dao.pdb
+C:\Users\u622030\Downloads\ProyectoFinal_Version17\ProyectoFinal\Negocio\bin\Debug\Entidades.pdb
+C:\Users\u622030\Downloads\ProyectoFinal_Version17\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\u622030\Downloads\ProyectoFinal_Version17\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\u622030\Downloads\ProyectoFinal_Version17\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\u622030\Downloads\ProyectoFinal_Version17\ProyectoFinal\Negocio\obj\Debug\Negocio.dll
+C:\Users\u622030\Downloads\ProyectoFinal_Version17\ProyectoFinal\Negocio\obj\Debug\Negocio.pdb
+D:\Desktop\ProyectoFinal_Version18\ProyectoFinal\Negocio\bin\Debug\Negocio.dll
+D:\Desktop\ProyectoFinal_Version18\ProyectoFinal\Negocio\bin\Debug\Negocio.pdb
+D:\Desktop\ProyectoFinal_Version18\ProyectoFinal\Negocio\bin\Debug\Dao.dll
+D:\Desktop\ProyectoFinal_Version18\ProyectoFinal\Negocio\bin\Debug\Entidades.dll
+D:\Desktop\ProyectoFinal_Version18\ProyectoFinal\Negocio\bin\Debug\Dao.pdb
+D:\Desktop\ProyectoFinal_Version18\ProyectoFinal\Negocio\bin\Debug\Entidades.pdb
+D:\Desktop\ProyectoFinal_Version18\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+D:\Desktop\ProyectoFinal_Version18\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\Desktop\ProyectoFinal_Version18\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\Desktop\ProyectoFinal_Version18\ProyectoFinal\Negocio\obj\Debug\Negocio.dll
+D:\Desktop\ProyectoFinal_Version18\ProyectoFinal\Negocio\obj\Debug\Negocio.pdb
+C:\Users\u622030\Downloads\ProyectoFinal-Versión22\ProyectoFinal\Negocio\bin\Debug\Negocio.dll
+C:\Users\u622030\Downloads\ProyectoFinal-Versión22\ProyectoFinal\Negocio\bin\Debug\Negocio.pdb
+C:\Users\u622030\Downloads\ProyectoFinal-Versión22\ProyectoFinal\Negocio\bin\Debug\Dao.dll
+C:\Users\u622030\Downloads\ProyectoFinal-Versión22\ProyectoFinal\Negocio\bin\Debug\Entidades.dll
+C:\Users\u622030\Downloads\ProyectoFinal-Versión22\ProyectoFinal\Negocio\bin\Debug\Dao.pdb
+C:\Users\u622030\Downloads\ProyectoFinal-Versión22\ProyectoFinal\Negocio\bin\Debug\Entidades.pdb
+C:\Users\u622030\Downloads\ProyectoFinal-Versión22\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\u622030\Downloads\ProyectoFinal-Versión22\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\u622030\Downloads\ProyectoFinal-Versión22\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\u622030\Downloads\ProyectoFinal-Versión22\ProyectoFinal\Negocio\obj\Debug\Negocio.dll
+C:\Users\u622030\Downloads\ProyectoFinal-Versión22\ProyectoFinal\Negocio\obj\Debug\Negocio.pdb
+C:\Users\felib\Desktop\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\ProyectoFinal.last\Negocio\bin\Debug\Negocio.dll
+C:\Users\felib\Desktop\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\ProyectoFinal.last\Negocio\bin\Debug\Negocio.pdb
+C:\Users\felib\Desktop\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\ProyectoFinal.last\Negocio\bin\Debug\Dao.dll
+C:\Users\felib\Desktop\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\ProyectoFinal.last\Negocio\bin\Debug\Entidades.dll
+C:\Users\felib\Desktop\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\ProyectoFinal.last\Negocio\bin\Debug\Dao.pdb
+C:\Users\felib\Desktop\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\ProyectoFinal.last\Negocio\bin\Debug\Entidades.pdb
+C:\Users\felib\Desktop\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\ProyectoFinal.last\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\felib\Desktop\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\ProyectoFinal.last\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\felib\Desktop\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\ProyectoFinal.last\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\felib\Desktop\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\ProyectoFinal.last\Negocio\obj\Debug\Negocio.dll
+C:\Users\felib\Desktop\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\ProyectoFinal.last\Negocio\obj\Debug\Negocio.pdb
+C:\Users\u622030\Downloads\ProyectoFinal-V30\ProyectoFinal\Negocio\bin\Debug\Negocio.dll
+C:\Users\u622030\Downloads\ProyectoFinal-V30\ProyectoFinal\Negocio\bin\Debug\Negocio.pdb
+C:\Users\u622030\Downloads\ProyectoFinal-V30\ProyectoFinal\Negocio\bin\Debug\Dao.dll
+C:\Users\u622030\Downloads\ProyectoFinal-V30\ProyectoFinal\Negocio\bin\Debug\Entidades.dll
+C:\Users\u622030\Downloads\ProyectoFinal-V30\ProyectoFinal\Negocio\bin\Debug\Dao.pdb
+C:\Users\u622030\Downloads\ProyectoFinal-V30\ProyectoFinal\Negocio\bin\Debug\Entidades.pdb
+C:\Users\u622030\Downloads\ProyectoFinal-V30\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\u622030\Downloads\ProyectoFinal-V30\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\u622030\Downloads\ProyectoFinal-V30\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\u622030\Downloads\ProyectoFinal-V30\ProyectoFinal\Negocio\obj\Debug\Negocio.dll
+C:\Users\u622030\Downloads\ProyectoFinal-V30\ProyectoFinal\Negocio\obj\Debug\Negocio.pdb
+C:\Users\u622030\Downloads\ProyectoFinal-v31\ProyectoFinal\Negocio\bin\Debug\Negocio.dll
+C:\Users\u622030\Downloads\ProyectoFinal-v31\ProyectoFinal\Negocio\bin\Debug\Negocio.pdb
+C:\Users\u622030\Downloads\ProyectoFinal-v31\ProyectoFinal\Negocio\bin\Debug\Dao.dll
+C:\Users\u622030\Downloads\ProyectoFinal-v31\ProyectoFinal\Negocio\bin\Debug\Entidades.dll
+C:\Users\u622030\Downloads\ProyectoFinal-v31\ProyectoFinal\Negocio\bin\Debug\Dao.pdb
+C:\Users\u622030\Downloads\ProyectoFinal-v31\ProyectoFinal\Negocio\bin\Debug\Entidades.pdb
+C:\Users\u622030\Downloads\ProyectoFinal-v31\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\u622030\Downloads\ProyectoFinal-v31\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\u622030\Downloads\ProyectoFinal-v31\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\u622030\Downloads\ProyectoFinal-v31\ProyectoFinal\Negocio\obj\Debug\Negocio.dll
+C:\Users\u622030\Downloads\ProyectoFinal-v31\ProyectoFinal\Negocio\obj\Debug\Negocio.pdb
+C:\Users\u622030\Downloads\ProyectoFinal_Version44\ProyectoFinal\Negocio\bin\Debug\Negocio.dll
+C:\Users\u622030\Downloads\ProyectoFinal_Version44\ProyectoFinal\Negocio\bin\Debug\Negocio.pdb
+C:\Users\u622030\Downloads\ProyectoFinal_Version44\ProyectoFinal\Negocio\bin\Debug\Dao.dll
+C:\Users\u622030\Downloads\ProyectoFinal_Version44\ProyectoFinal\Negocio\bin\Debug\Entidades.dll
+C:\Users\u622030\Downloads\ProyectoFinal_Version44\ProyectoFinal\Negocio\bin\Debug\Dao.pdb
+C:\Users\u622030\Downloads\ProyectoFinal_Version44\ProyectoFinal\Negocio\bin\Debug\Entidades.pdb
+C:\Users\u622030\Downloads\ProyectoFinal_Version44\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\u622030\Downloads\ProyectoFinal_Version44\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\u622030\Downloads\ProyectoFinal_Version44\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\u622030\Downloads\ProyectoFinal_Version44\ProyectoFinal\Negocio\obj\Debug\Negocio.dll
+C:\Users\u622030\Downloads\ProyectoFinal_Version44\ProyectoFinal\Negocio\obj\Debug\Negocio.pdb
+C:\Users\u622030\Downloads\ProyectoFinal_Version45\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\u622030\Downloads\ProyectoFinal_Version45\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\u622030\Downloads\ProyectoFinal_Version45\ProyectoFinal\Negocio\obj\Debug\Negocio.dll
+C:\Users\u622030\Downloads\ProyectoFinal_Version45\ProyectoFinal\Negocio\obj\Debug\Negocio.pdb
+C:\Users\u622030\Downloads\ProyectoFinal_Version45\ProyectoFinal\Negocio\bin\Debug\Negocio.dll
+C:\Users\u622030\Downloads\ProyectoFinal_Version45\ProyectoFinal\Negocio\bin\Debug\Negocio.pdb
+C:\Users\u622030\Downloads\ProyectoFinal_Version45\ProyectoFinal\Negocio\bin\Debug\Dao.dll
+C:\Users\u622030\Downloads\ProyectoFinal_Version45\ProyectoFinal\Negocio\bin\Debug\Entidades.dll
+C:\Users\u622030\Downloads\ProyectoFinal_Version45\ProyectoFinal\Negocio\bin\Debug\Dao.pdb
+C:\Users\u622030\Downloads\ProyectoFinal_Version45\ProyectoFinal\Negocio\bin\Debug\Entidades.pdb
+C:\Users\u622030\Downloads\ProyectoFinal_Version45\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\Desktop\pf\ProyectoFinal\Negocio\bin\Debug\Negocio.dll
+D:\Desktop\pf\ProyectoFinal\Negocio\bin\Debug\Negocio.pdb
+D:\Desktop\pf\ProyectoFinal\Negocio\bin\Debug\Dao.dll
+D:\Desktop\pf\ProyectoFinal\Negocio\bin\Debug\Entidades.dll
+D:\Desktop\pf\ProyectoFinal\Negocio\bin\Debug\Dao.pdb
+D:\Desktop\pf\ProyectoFinal\Negocio\bin\Debug\Entidades.pdb
+D:\Desktop\pf\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+D:\Desktop\pf\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\Desktop\pf\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\Desktop\pf\ProyectoFinal\Negocio\obj\Debug\Negocio.dll
+D:\Desktop\pf\ProyectoFinal\Negocio\obj\Debug\Negocio.pdb
+C:\Users\felib\OneDrive - frgp.utn.edu.ar\Escritorio\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\TP_Grupo10\ProyectoFinal\Negocio\bin\Debug\Negocio.dll
+C:\Users\felib\OneDrive - frgp.utn.edu.ar\Escritorio\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\TP_Grupo10\ProyectoFinal\Negocio\bin\Debug\Negocio.pdb
+C:\Users\felib\OneDrive - frgp.utn.edu.ar\Escritorio\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\TP_Grupo10\ProyectoFinal\Negocio\bin\Debug\Dao.dll
+C:\Users\felib\OneDrive - frgp.utn.edu.ar\Escritorio\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\TP_Grupo10\ProyectoFinal\Negocio\bin\Debug\Entidades.dll
+C:\Users\felib\OneDrive - frgp.utn.edu.ar\Escritorio\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\TP_Grupo10\ProyectoFinal\Negocio\bin\Debug\Dao.pdb
+C:\Users\felib\OneDrive - frgp.utn.edu.ar\Escritorio\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\TP_Grupo10\ProyectoFinal\Negocio\bin\Debug\Entidades.pdb
+C:\Users\felib\OneDrive - frgp.utn.edu.ar\Escritorio\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\TP_Grupo10\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\felib\OneDrive - frgp.utn.edu.ar\Escritorio\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\TP_Grupo10\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\felib\OneDrive - frgp.utn.edu.ar\Escritorio\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\TP_Grupo10\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\felib\OneDrive - frgp.utn.edu.ar\Escritorio\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\TP_Grupo10\ProyectoFinal\Negocio\obj\Debug\Negocio.dll
+C:\Users\felib\OneDrive - frgp.utn.edu.ar\Escritorio\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\TP_Grupo10\ProyectoFinal\Negocio\obj\Debug\Negocio.pdb
+C:\ProyectoFinal\Negocio\bin\Debug\Negocio.dll
+C:\ProyectoFinal\Negocio\bin\Debug\Negocio.pdb
+C:\ProyectoFinal\Negocio\bin\Debug\Dao.dll
+C:\ProyectoFinal\Negocio\bin\Debug\Entidades.dll
+C:\ProyectoFinal\Negocio\bin\Debug\Dao.pdb
+C:\ProyectoFinal\Negocio\bin\Debug\Entidades.pdb
+C:\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\ProyectoFinal\Negocio\obj\Debug\Negocio.dll
+C:\ProyectoFinal\Negocio\obj\Debug\Negocio.pdb

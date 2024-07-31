@@ -1,0 +1,36 @@
+C:\Users\felib\Desktop\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\ProyectoFinal\Entidades\bin\Debug\Entidades.dll
+C:\Users\felib\Desktop\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\ProyectoFinal\Entidades\bin\Debug\Entidades.pdb
+C:\Users\felib\Desktop\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\ProyectoFinal\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\felib\Desktop\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\ProyectoFinal\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\felib\Desktop\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\ProyectoFinal\Entidades\obj\Debug\Entidades.dll
+C:\Users\felib\Desktop\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\ProyectoFinal\Entidades\obj\Debug\Entidades.pdb
+D:\Desktop\ProyectoFinal\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+D:\Desktop\ProyectoFinal\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Desktop\ProyectoFinal\Entidades\obj\Debug\Entidades.dll
+D:\Desktop\ProyectoFinal\Entidades\obj\Debug\Entidades.pdb
+D:\Desktop\ProyectoFinal\Entidades\bin\Debug\Entidades.dll
+D:\Desktop\ProyectoFinal\Entidades\bin\Debug\Entidades.pdb
+C:\Users\felib\Desktop\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\ProyectoFinal.new\Entidades\bin\Debug\Entidades.dll
+C:\Users\felib\Desktop\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\ProyectoFinal.new\Entidades\bin\Debug\Entidades.pdb
+C:\Users\felib\Desktop\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\ProyectoFinal.new\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\felib\Desktop\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\ProyectoFinal.new\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\felib\Desktop\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\ProyectoFinal.new\Entidades\obj\Debug\Entidades.dll
+C:\Users\felib\Desktop\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\ProyectoFinal.new\Entidades\obj\Debug\Entidades.pdb
+C:\Users\u622030\Downloads\ProyectoFinal_Version17\ProyectoFinal\Entidades\bin\Debug\Entidades.dll
+C:\Users\u622030\Downloads\ProyectoFinal_Version17\ProyectoFinal\Entidades\bin\Debug\Entidades.pdb
+C:\Users\u622030\Downloads\ProyectoFinal_Version17\ProyectoFinal\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\u622030\Downloads\ProyectoFinal_Version17\ProyectoFinal\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\u622030\Downloads\ProyectoFinal_Version17\ProyectoFinal\Entidades\obj\Debug\Entidades.dll
+C:\Users\u622030\Downloads\ProyectoFinal_Version17\ProyectoFinal\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Usuario\Downloads\ProyectoFinal\Entidades\bin\Debug\Entidades.dll
+C:\Users\Usuario\Downloads\ProyectoFinal\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Downloads\ProyectoFinal\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\ProyectoFinal\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\ProyectoFinal\Entidades\obj\Debug\Entidades.dll
+C:\Users\Usuario\Downloads\ProyectoFinal\Entidades\obj\Debug\Entidades.pdb
+C:\Users\felib\OneDrive - frgp.utn.edu.ar\Escritorio\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\TP_Grupo10\ProyectoFinal\Entidades\bin\Debug\Entidades.dll
+C:\Users\felib\OneDrive - frgp.utn.edu.ar\Escritorio\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\TP_Grupo10\ProyectoFinal\Entidades\bin\Debug\Entidades.pdb
+C:\Users\felib\OneDrive - frgp.utn.edu.ar\Escritorio\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\TP_Grupo10\ProyectoFinal\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\felib\OneDrive - frgp.utn.edu.ar\Escritorio\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\TP_Grupo10\ProyectoFinal\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\felib\OneDrive - frgp.utn.edu.ar\Escritorio\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\TP_Grupo10\ProyectoFinal\Entidades\obj\Debug\Entidades.dll
+C:\Users\felib\OneDrive - frgp.utn.edu.ar\Escritorio\Universidad\UTN\PROGRAMACION III\PROGRA-III\TP Integrador\TP_Grupo10\ProyectoFinal\Entidades\obj\Debug\Entidades.pdb
