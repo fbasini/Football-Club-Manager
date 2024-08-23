@@ -1,14 +1,14 @@
 # FootballClubManager
 
-FootballClubManager es un TP donde se desarrollo una aplicación web para la gestión de socios de un club de fútbol.
+FootballClubManager is a **Web App** for managing football club members.
 
-La aplicación fue creada utilizando **ASP.NET** con **WebForms** para construir la interfaz de usuario y **CSS** para estilizar y mejorar la experiencia visual.
+The application was created using **ASP.NET** with **WebForms** to build the user interface and **CSS** for styling and a better visual experience.
 
-La arquitectura del proyecto sigue un enfoque de **programación en capas**, lo que permite separar la lógica de negocio, la presentación y el acceso a datos, facilitando así el mantenimiento y la escalabilidad de la aplicación.
+I used a **multilayered architecture** approach to improve maintainability and scalability.
 
-Para el backend, se empleó **C#** dentro del **.NET Framework**, lo que nos permitió implementar la lógica de negocio y gestionar las operaciones de la aplicación de manera eficiente.
+For the backend, I implemented the business logic in **C#** with **.NETFramework**, which allowed us to efficiently manage the application's operations.
 
-Los datos se almacenan en una base de datos **SQL Server**, donde también se utilizaron **procedimientos almacenados** para optimizar el acceso y la manipulación de datos.
+Data is stored in a **SQL Server** database, where **stored procedures** were used to optimize data access and **CRUD** operations.
 
-El control de versiones del proyecto se llevó a cabo utilizando **Git**, facilitando el trabajo colaborativo y el seguimiento de cambios en el código fuente.
+Version control for the project was handled using **Git**, facilitating collaborative work and tracking changes in the source code.
 
