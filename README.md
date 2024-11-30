@@ -1,4 +1,4 @@
-# FootballClubManager
+# Football Club Manager
 
 FootballClubManager is a **Web App** for managing football club members.
 
